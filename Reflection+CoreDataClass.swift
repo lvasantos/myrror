@@ -11,5 +11,5 @@ import CoreData
 
 @objc(Reflection)
 public class Reflection: NSManagedObject {
-
+ 
 }
